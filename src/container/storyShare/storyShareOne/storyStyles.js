@@ -12,6 +12,7 @@ export const storyStyles = {
   gridTwo: {
     color: "white",
     paddingTop: { xs: 7, md: 0 },
+    paddingBottom: { xs: 5, lg: 0}
   },
   btn: {
     color: "white",
