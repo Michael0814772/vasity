@@ -10,6 +10,7 @@ export const amazingStyles = {
     fontWeight: "bolder",
     paddingBottom: 1,
     // mx: "auto",
+    fontSize: {xs: "55px", lg: "65px"}
   },
   gridTwo: {
     // width: { xs: "95%", sm: "90%", lg: "90%", xl: "80%" },
