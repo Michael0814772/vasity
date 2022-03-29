@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  text-decoration: none;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  width: fit-content;
+  text-decoration: none;
+  color: "#FF5C00";
+  justify-content: end;
+  color: rgba(255, 192, 203, 0.863);
+  color: 1px solid rgba(0, 0, 0, 0.192);
+  font-weight: 300;
+
+}
+
+.allLi li {
+  font-weight: 300;
+  font-size: 14px;
+  padding-bottom: 13px;
+  font-style: normal;
+}
